@@ -23,20 +23,20 @@ We publish hours, offerings and contact paths clearly so customers know what to 
 
 ---
 
-## Why we exist
+## Our promise
 
-Rurasturredes exists to make pet care feel personal in Austin — clear pricing, honest recommendations, and a team that remembers why you came back.
+At Rurasturredes, great pet care shouldn't require guesswork. We publish hours, prices, and policies so your visit starts with confidence.
 
-- Rooted in Austin with regulars who know our name
-- Offerings that match what we publish online
-- Support you can reach during real hours
-- A space built for repeat visits, not one-offs
+- Transparent menus and service lists
+- Staff who explain options without pressure
+- Quality that holds up visit after visit
+- Follow-through when something needs fixing
 
 ---
 
-## Where we're headed
+## The long view
 
-We're growing Rurasturredes into a pets people recommend without hesitation — more depth in our craft, same straightforward experience at the door.
+Become the pet care benchmark in Austin — known for craft, accessibility, and a brand identity that feels unmistakably Rurasturredes.
 
 ---
 
@@ -75,91 +75,6 @@ We're growing Rurasturredes into a pets people recommend without hesitation — 
 
 ---
 
-
-# Featured Categories
-
-| Category | Description |
-|----------|-------------|
-| **New Arrivals** | Latest additions to our pet care catalog |
-| **Best Sellers** | Customer favorites and most-requested options |
-| **Signature Experience** | Our most requested package |
-| **Pet Care Essentials** | Core offering for everyday guests |
-| **Essentials** | Everyday foundations of the brand |
-| **Premium** | Elevated selections for special occasions |
-| **Support** | Guidance, sizing help and aftercare |
-| **Visit / Book** | Hours, appointments and walk-in options |
-
-
----
-
-# Brand Style
-
-### Modern Everyday
-
-Clean, comfortable options for daily life.
-
-### Signature Edit
-
-Distinctive pieces that define the brand look.
-
-### Refined Essentials
-
-Timeless basics that mix with almost anything.
-
-### Premium Moments
-
-Elevated selections when the occasion asks for more.
-
----
-
-# Why Choose Rurasturredes?
-
-### Local roots
-
-Based in Austin with a team you can meet in person.
-
-### Craft first
-
-We invest in the work behind the counter, not filler marketing.
-
-### Built to return
-
-Consistency matters more than one flashy launch.
-
-### Local roots
-
-Based in Austin with a team you can meet in person.
----
-
-# What the website includes
-
-- Responsive layout tuned for mobile
-- Clear **Offerings** with prices
-- Visit page with map and hours
-- Contact form — stay on site, no redirects
-- Policies and support desk email
-
----
-
-# Brand Identity
-
-**Industry:** Pet Care (Pets)  
-**Location:** Austin, TX  
-**Audience:** Customers looking for reliable, accessible pet care.
-
----
-
-# Repository
-
-Public profile + website assets for **Rurasturredes**.
-
-```text
-rurasturredes/
-├── README.md
-└── rurasturredes.github.io/
-```
-
----
 
 # Customer Support
 

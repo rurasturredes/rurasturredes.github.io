@@ -2,8 +2,8 @@
 :root {
   --ink:#121417; --muted:#5c6570; --paper:#fff7ed;
   --accent:#c2410c; --deep:#431407; --line:rgba(18,20,23,.10);
-  --display:"Cormorant Garamond",Georgia,"Times New Roman",serif;
-  --body:"Source Sans 3","Segoe UI",sans-serif; --shell:1120px;
+  --display:"Bebas Neue",Georgia,"Times New Roman",serif;
+  --body:"Inter","Segoe UI",sans-serif; --shell:1120px;
   --radius:14px;
 }
 *{box-sizing:border-box} html{scroll-behavior:smooth}
@@ -166,7 +166,16 @@ picture,figure{margin:0}
 .block.tint{background:#fffbeb}
 
 
-:root{--radius:0px}.top,.item,.card,.promo,blockquote,.person,.hours-card{border-width:2px;box-shadow:none}.hero{border-bottom:3px solid var(--deep)}.hero h1,h2{text-transform:uppercase;letter-spacing:-.04em}.menu-grid{gap:0}.menu-grid .item{margin:-1px 0 0 -1px}.btn,.cta{border-radius:0}.block{padding:4.5rem 0}
+.hero.split-hero{min-height:auto;padding:0;background:var(--paper);color:var(--ink)}
+.hero.split-hero .hero-bg,.hero.split-hero .hero-shade{display:none}
+.hero.split-hero .hero-split{display:grid;grid-template-columns:1.05fr .95fr;min-height:78vh}
+.hero.split-hero .hero-copy{padding:4rem 0 4rem;color:var(--ink);max-width:none}
+.hero.split-hero .hero-copy .lede{color:var(--muted)}
+.hero.split-hero .hero-photo img{width:100%;height:100%;min-height:420px;object-fit:cover}
+.hero.split-hero .btn.line{border-color:var(--line);color:var(--deep)}
+.gallery-masonry{display:columns;columns:2;column-gap:1rem}
+.gallery-masonry figure{break-inside:avoid;margin:0 0 1rem}
+.gallery-masonry img{width:100%;height:auto;min-height:180px;object-fit:cover;border-radius:var(--radius)}
 
 .prose-block .lead.wide{max-width:62ch}
 .journal-card,.journal-entry{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:1.2rem}
